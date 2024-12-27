@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    margin-left: 5px;
+    padding-top: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    padding-left: 30px;
+    margin-top: 20px;
+    color: black;
+    justify-items: center;
+
+}
+.headercontent {
+    margin-top: 25px;
+    padding-left: 10px;
+    text-decoration: none;
+    position: absolute;
+
+}
+
+
+.nav {
+    display: inline;
+    padding-bottom: 2px;
+    margin-left: 800px;
+    justify-content: space-between;
+     padding-right: 25px;
+    font-size: larger;
+    color: black;
+
+}
+
+
+.na {
+    text-decoration: none;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-bottom: 2px;
+    font-weight: 500;
+    margin: 10px;
+
+
+}
+.img1 {
+
+    height: 650px;
+    width: 100%;
+
+
+}
+
+.earth1122 {
+    text-align: center;
+    padding-top: 250px;
+    color: rgb(0, 77, 0);
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 8.5pxpx;
+    text-transform: uppercase;
+    letter-spacing: 10PX;
+    font-weight:600;
+    
+
+}
+
+.box {
+
+   background-image:  url(https://websitedemos.net/earth-02/wp-content/uploads/sites/1125/2022/10/Contact-Banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+
+}
+.rightsection {
+
+    width: 100%;
+    height: 100%;
+}
+.heading1{
+    padding-top: 120px;
+    padding-left: 120px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
+.container{
+    padding-top: 20px;
+    display: flex;
+}
+.wpforms-field-large{
+    height: 40px;
+    width: 400px;
+
+}
+
+.form1{
+
+    padding-left: 150px;
+    padding-top: 100px;
+
+}
+.form2{
+    padding-left: 150px;
+    padding-top: 20px;
+
+}
+.form3{
+    padding-left: 150px;
+    padding-top: 20px;
+
+}
+.form4{
+    padding-left: 150px;
+    padding-top: 20px;
+}
+#form4{
+    height: 100px;
+    width: 400px;
+}
+.btn1{
+    padding-left: 150px;
+    padding-top: 20px;
+    
+
+}
+#btn1{
+    background-color:#74a84a;
+    color: white;
+    height: 40px;
+    width: 180px;
+    border-radius: 2px;
+    box-shadow: none;
+}
+.btn:hover{
+    background-color: green;
+}
+.heading2{
+    padding-top: 120px;
+    padding-left: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
+
+.ema{
+    height: 30px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.EI{
+    padding-left: 20px;
+    padding-bottom: 100px;
+}
+.form11{
+    padding-left: 90px;
+    padding-top: 100px;
+}
+.form12{
+   padding-left: 90px;
+   padding-top: 20px;
+    
+}
+.form13{
+    padding-left: 90px;
+    padding-top: 20px;
+     
+ }
+ .fol{
+    padding-left: 90px;
+    padding-top: 20px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .e1{
+    padding-left: 90x;
+    height: 50px;
+ }  
+ .ee{
+    padding-left: 25px;
+    padding-bottom: 50px;
+ }
+ .logo1{
+    padding-left: 50px;
+    padding-top: 18px
+ }
+ .logo1 i{
+    font-size: 50px;
+    padding-left: 25px;
+ }
+ 
+
+ .twitter{
+    height: 55px;
+    padding-left: 10px;
+ }
+
+ .fo {
+    text-decoration: none;
+    color: black;
+    grid-row: -1, -1;
+    margin-left: 8px;
+    /* margin: 10px; */
+    text-align: center;
+    display: inline;
+
+}
+
+.foul {
+    display: inline-block;
+    margin-left: 100px;
+
+}
+
+.footer {
+    padding-bottom: 25px;
+    margin-top: 170px;
+    background-color:#74a84a;
+   
+    font-family: Home About Service Contact;
+    font-size: medium;
+
+}
+
+.copy {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    margin-left: 700px;
+    display: inline-flex;
+}
